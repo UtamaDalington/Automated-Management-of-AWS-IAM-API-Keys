@@ -31,7 +31,7 @@ This project focuses on strengthening the security and compliance posture of an 
 
 · Operational Efficiency: Minimizes manual workload, allowing teams to focus on strategic initiatives instead of repetitive IAM tasks.
 
-## **💡 Results:**
+## **💡 Full Project:**
 
 This solution delivers a secure, scalable, and automated approach to IAM access key management, covering both rotation and removal. By leveraging native AWS tools and aligning with best practices, it significantly enhances the AWS environment’s security, ensures regulatory compliance, and reduces administrative burden. <br/>
 Check out the full project here: https://medium.com/@utamadalington045/automated-management-of-aws-iam-api-keys-rotation-deactivation-creation-deletion-and-1e4335232114

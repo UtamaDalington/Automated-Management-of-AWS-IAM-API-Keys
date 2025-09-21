@@ -2,7 +2,7 @@
 
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:700/1*AbXPSLqUzALGaUYOhjnzzg.png" width="800" alt="Automated Management of AWS IAM API Keys: Rotation, Deactivation, Creation, Deletion, and Notification" />
+  <img src="https://lucid.app/lucidchart/22c1291d-f782-415d-a7f3-7c34d4241413/edit?viewport_loc=-3454%2C-5041%2C3066%2C1425%2C0_0&invitationId=inv_3cafdd92-5968-4df6-9fb8-29aa54aafe13" width="800" alt="Automated Management of AWS IAM API Keys: Rotation, Deactivation, Creation, Deletion, and Notification" />
 </p>  
 
 <hr/>
